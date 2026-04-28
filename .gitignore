@@ -12,6 +12,7 @@
 /build
 
 # misc
+readme.MD
 .DS_Store
 .env.local
 .env.development.local
